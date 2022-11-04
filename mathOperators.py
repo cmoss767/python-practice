@@ -5,3 +5,7 @@ print(10 / 3)
 print(10 // 3)
 
 print(10 % 3)
+
+
+# operators
+# and-both required not-opposite or-either required
